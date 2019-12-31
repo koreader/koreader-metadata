@@ -1,0 +1,1 @@
+Document viewer primarly aimed at e-ink readers.

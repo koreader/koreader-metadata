@@ -1,0 +1,7 @@
+Main features
+
+- **multi-format documents**: supports fixed page formats (PDF, DjVu, CBT, CBZ) and reflowable e-book formats (EPUB, FB2, Mobi, DOC, CHM, TXT). Scanned PDF/DjVu documents can also be reflowed.
+- **integrated** with Calibre, Wallabag, Wikipedia...
+- **extensible:** via plugins
+- **full-featured:** multi-lingual user interface with a highly customizable reader view and many typeset options.
+- **and much more:** look up words with StarDict dictionaries, add your own online OPDS catalogs and RSS feeds, share ebooks with other KOReader devices wirelessly...
